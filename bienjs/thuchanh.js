@@ -5,7 +5,7 @@ const myAge = 18;
 const myScore = 9.1;
 
 //string
-const name = "le ngoc xuan quynh";
+const name = "toi la nguoi viet ma";
 const name1 = `javascript`;
 
 console.log(name);
@@ -14,3 +14,12 @@ console.log(name);
 const isCheck = true;
 console.log(isCheck);
 
+//undefine: chua dinh nghi
+let bla;
+console.log(bla);
+
+//null: da gan gtri nhung chua co
+let testNull = null;
+console.log(testNull)
+
+//datatype cho biet kieu du lieu
