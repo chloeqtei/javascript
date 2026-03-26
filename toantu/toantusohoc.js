@@ -15,3 +15,7 @@ console.log(a);
 console.log(c);
 
 //toán tử so sánh
+const number = "5";
+const number2 = 5;
+
+console.log(number === number2);
